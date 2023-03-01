@@ -145,8 +145,8 @@
     position: absolute;
     background: url(stickmod.png);
     background-position: -85px 0;
-    height: 83px;
-    width: 83px;
+    height: 85px;
+    width: 85px;
 }
 
 .xbox .stick.pressed {
